@@ -1,0 +1,182 @@
+CSE
+What is OOPS?
+1. A programming paradigm based on objects
+2. A type of programming language
+3. A method for managing data
+Answer: 1
+
+Which of the following is NOT a principle of OOPS?
+1. Encapsulation
+2. Inheritance
+3. Compilation
+Answer: 3
+
+What does encapsulation refer to?
+1. Combining data and methods
+2. Reusing code
+3. Showing the implementation details
+Answer: 1
+
+In which of the following is a subclass able to inherit properties from a superclass?
+1. Encapsulation
+2. Inheritance
+3. Polymorphism
+Answer: 2
+
+What is polymorphism in OOP?
+1. The ability of different classes to respond to the same method call
+2. The ability to inherit attributes from a class
+3. The combination of data and methods
+Answer: 1
+
+Which keyword is used to create a class in Java?
+1. new
+2. class
+3. create
+Answer: 2
+
+What is a constructor?
+1. A special method for initializing objects
+2. A method that creates a class
+3. A type of data type
+Answer: 1
+
+What is method overloading?
+1. Creating multiple methods with the same name but different parameters
+2. Creating methods that override parent class methods
+3. A method that calls itself
+Answer: 1
+
+Which of the following is an example of abstraction?
+1. Hiding complex implementation details while exposing only necessary features
+2. Deriving classes from base classes
+3. Using multiple forms of a method
+Answer: 1
+
+What is an interface in Java?
+1. A reference type that can contain only constants, method signatures, default methods, static methods, and nested types
+2. A way to achieve multiple inheritance
+3. A type of class
+Answer: 1
+
+EC
+What does a logic gate do?
+1. Implements logical operations
+2. Stores data
+3. Controls input/output devices
+Answer: 1
+
+Which gate outputs true only when both inputs are true?
+1. OR Gate
+2. AND Gate
+3. NOT Gate
+Answer: 2
+
+What is a flip-flop?
+1. A type of electronic circuit that can store one bit of data
+2. A combination of logic gates
+3. A storage device
+Answer: 1
+
+What is the function of a multiplexer?
+1. To select one input from multiple inputs
+2. To perform arithmetic operations
+3. To compare two values
+Answer: 1
+
+Which of the following represents a binary digit?
+1. 0 and 1
+2. 1 and 2
+3. 0 and 2
+Answer: 1
+
+What is the difference between combinational and sequential logic?
+1. Combinational logic depends on current input, sequential logic depends on past input.
+2. Combinational logic uses memory, sequential logic does not.
+3. There is no difference.
+Answer: 1
+
+What is an adder?
+1. A circuit that adds binary numbers
+2. A device that stores data
+3. A logic gate
+Answer: 1
+
+Which device is used to convert analog signals to digital signals?
+1. Digital-to-Analog Converter (DAC)
+2. Analog-to-Digital Converter (ADC)
+3. Flip-Flop
+Answer: 2
+
+What is a truth table?
+1. A mathematical table used to compute the functional values of logical expressions
+2. A type of data structure
+3. A graphical representation of logic circuits
+Answer: 1
+
+What is a Karnaugh map used for?
+1. To simplify Boolean algebra expressions
+2. To design circuits
+3. To analyze data
+Answer: 1
+
+EI
+What is the integral of x^n?
+1. (x^(n+1))/(n+1) + C (for n ≠ -1)
+2. n x^(n-1) + C
+3. e^x + C
+Answer: 1
+
+What is the integral of e^x?
+1. e^x + C
+2. ln(x) + C
+3. x e^x + C
+Answer: 1
+
+What does the Fundamental Theorem of Calculus state?
+1. It relates differentiation and integration.
+2. It defines limits.
+3. It solves differential equations.
+Answer: 1
+
+What is the integral of sin(x)?
+1. -cos(x) + C
+2. cos(x) + C
+3. tan(x) + C
+Answer: 1
+
+What is a definite integral?
+1. An integral with specified upper and lower limits.
+2. An integral without limits.
+3. An integral of a constant function.
+Answer: 1
+
+What is the area under the curve of a function from a to b?
+1. The definite integral of the function from a to b.
+2. The average value of the function.
+3. The derivative of the function.
+Answer: 1
+
+What is integration by parts?
+1. A technique used to integrate products of functions.
+2. A method to solve differential equations.
+3. A technique for approximating integrals.
+Answer: 1
+
+What is the integral of cos(x)?
+1. sin(x) + C
+2. -sin(x) + C
+3. tan(x) + C
+Answer: 1
+
+What is a Riemann sum?
+1. A method for approximating the area under a curve.
+2. A type of integral.
+3. A way to solve differential equations.
+Answer: 1
+
+What is the integral of 1/x?
+1. ln|x| + C
+2. x + C
+3. e^x + C
+Answer: 1

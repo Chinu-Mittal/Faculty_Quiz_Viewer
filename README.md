@@ -83,7 +83,3 @@ For questions, issues, or contributions, feel free to open a GitHub issue or sub
 
 ---
 
-## **How to Run the Project**
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
